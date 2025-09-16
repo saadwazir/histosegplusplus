@@ -13,9 +13,6 @@ conda env create -f histosegplusplus.yml
 #### MoNuSeg - Multi-organ nuclei segmentation from H&E stained histopathological images.
 link: https://monuseg.grand-challenge.org/Data/
 
-#### TNBC - Triple-negative breast cancer.
-link: https://zenodo.org/records/1175282#.YMisCTZKgow
-
 #### DSB - 2018 Data Science Bowl.
 link: https://www.kaggle.com/c/data-science-bowl-2018/data
 
