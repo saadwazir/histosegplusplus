@@ -1,24 +1,12 @@
 **HistoSeg++: Delving deeper with attention and multiscale feature fusion for biomarker segmentation**
 ***12th International Conference on Biomedical and Bioinformatics Engineering (ICBBE 2025)***
 
-## 📄🚀 Check out Our Papers  
-
-Explore our repositories and the papers where they were presented:  
-
-- [HistoSeg](https://github.com/saadwazir/HistoSeg) — *ICPRS 2022*  
-- [HistoSeg++](https://github.com/saadwazir/histosegplusplus) — *ICBBE 2025*  
-- [ReN-UNet](https://github.com/saadwazir/ReN-UNet) — *MICAD 2024*  
-- [MCADS-Decoder](https://github.com/saadwazir/MCADS-Decoder) — *CVPR 2025*  
-
-
-
 
 ### Setup Conda Environment
 use this command to create a conda environment (all the required packages are listed in `histosegplusplus.yml` file)
 ```
 conda env create -f histosegplusplus.yml
 ```
-
 
 ### Datasets
 
